@@ -324,7 +324,6 @@ tabs = dbc.Tabs(
         dbc.Tab(label="Black-Scholes avec Smile de Volatilité", tab_id="tab-smile"),
         dbc.Tab(label="Heston Calibrée ", tab_id="tab-heston"),
         dbc.Tab(label="Monte Carlo - Heston ", tab_id="tab-mc-heston"),
-        dbc.Tab(label='Taux avec Hull-White',tab_id = 'tab-hull-white'),
         dbc.Tab(label='README', tab_id='tab-readme')
     ],
     id="tabs",
