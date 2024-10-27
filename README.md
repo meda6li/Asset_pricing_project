@@ -1,22 +1,12 @@
 # Guide d'utilisateur
 
-Cette page vous guidera à travers les fonctionnalités de notre application de pricing, qui se divise en deux parties principales : Equity et Taux.
-
-## Partie Equity
-
-La partie Equity de l'application comprend les 6 premiers onglets, chacun offrant des fonctionnalités spécifiques pour l'évaluation des produits dérivés.
+L'application comprend les 6 premiers onglets, chacun offrant des fonctionnalités spécifiques pour l'évaluation des produits dérivés.
 
 1. **Black-Scholes Vol. Constante** : Utilisation du modèle Black-Scholes avec une volatilité constante.
 2. **Monte Carlo - BS Vol. Constante** : Évaluation par méthode Monte Carlo sous l'hypothèse de la volatilité constante du modèle Black-Scholes.
 3. **Black-Scholes avec Smile de Volatilité** : Version améliorée du modèle Black-Scholes intégrant le smile de volatilité.
 4. **Heston Calibrée** : Utilisation du modèle de Heston avec des paramètres calibrés.
 5. **Monte Carlo Heston** : Évaluation par méthode Monte Carlo en utilisant le modèle de Heston.
-
-## Partie Taux
-
-La partie Taux de l'application contient un onglet dédié :
-
-1. **Taux avec Hull-White** : Modélisation des taux d'intérêt en utilisant le modèle de Hull-White.
 
 ## Précisions
 
