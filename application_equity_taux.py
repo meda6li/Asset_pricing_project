@@ -356,8 +356,6 @@ def switch_tab(at):
         return layout_heston_calibre()
     elif at == "tab-mc-heston":
         return layout_monte_carlo_heston()
-    elif at == 'tab-hull-white' :
-        return layout_hull_white_rates()
     elif at == 'tab-readme':
         return layout_readme()
 
